@@ -1,9 +1,6 @@
 # Ian Baldo
-ianblopes@gmail.com
 
-[StackOverflow Profile](https://stackoverflow.com/users/15007757/baldo)
 
-## About Me
 Hi There! I'm Ian.
 
 A software developer experienced in various technologies who loves to take on new challenges!
@@ -11,6 +8,13 @@ A software developer experienced in various technologies who loves to take on ne
 Solving problems with technology is my thing!
 
 I'm also a team player, accountable, engaged and have good comunication skills
+
+Feel like we could work together to build something awesome?
+Mail me @ ianblopes@gmail.com
+
+Also working on giving back to the community @ Stackoverflow
+
+Check out my profile [here](https://stackoverflow.com/users/15007757/baldo)
 
 ## Professional Experience
 Sep20 -Current  __Senior Developer__ @ [Bionexo](https://bionexo.com/)
