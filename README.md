@@ -31,7 +31,7 @@ Sep19 - Sep20  __FullStack Developer__ @ [Globant](https://www.globant.com/)
 
 
 Oct17 - Sep19  __FullStack Developer__ @ [BRL Trust](https://www.brltrust.com.br/?lang=en)
-- Technologies I worked with: **Git, Linux, Angular, Vuejs, PHP, Postgres, SQL Server, Rundeck, Shell Script**
+- Technologies I worked with: **Git, Linux, Angular, Vuejs, PHP, Python, Postgres, SQL Server, Rundeck, Shell Script**
 - I was responsible for designing and developing the solutions behind integrations and operations for the FIDCs funds of investment
 
 
